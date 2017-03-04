@@ -1,0 +1,24 @@
+
+
+
+html, body {
+	background: url("../images/school.png") no-repeat;
+	background-size: 100%;
+}
+h1{
+	text-align: center;
+}
+.clockTime{
+
+	font-size: 24px;
+	font-weight: bolder;
+}
+.container {
+	color: #8b4513;
+    font-size: 18px;
+    text-align: center;
+}
+.triviaAnswers{
+	font-size: 45px;
+	font-weight: bold;
+}
