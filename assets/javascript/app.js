@@ -1,5 +1,5 @@
 var count=20;
-	choices=["Which one of these fruits has its seeds on the outside?",];
+	choices=["Which one of these fruits has its seeds on the outside?","Which rule is the best way to solve a limit that gives an indeterminate form?"];
 	rightChoices=[];
 	wrongChoices=[];
 	noChoice=[];
