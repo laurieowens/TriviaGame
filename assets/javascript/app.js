@@ -1,5 +1,5 @@
 var count=20;
-	choices=["Which one of these fruits has its seeds on the outside?","Which rule is the best way to solve a limit that gives an indeterminate form?","In the original 'Wizard of Oz Book' and the movie 'Wicked' these slippers are not “ruby” but this metallic color:"];
+	choices=["Which one of these fruits has its seeds on the outside?","Which rule is the best way to solve a limit that gives an indeterminate form?","In the original 'Wizard of Oz Book' and the movie 'Wicked' these slippers are not “ruby” but this metallic color:",];
 	rightChoices=[];
 	wrongChoices=[];
 	noChoice=[];
