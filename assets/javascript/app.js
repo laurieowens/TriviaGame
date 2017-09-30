@@ -1,5 +1,5 @@
 var count=20;
-	choices=[];
+	choices=["Which one of these fruits has its seeds on the outside?",];
 	rightChoices=[];
 	wrongChoices=[];
 	noChoice=[];
